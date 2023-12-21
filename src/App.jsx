@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       Welcome to frontend
+      <button>Click Me</button>
     </>
   )
 }
